@@ -1,0 +1,22 @@
+/* headline.css */
+
+.headline-container {
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  padding: 20px;
+}
+
+.headline-container h1 {
+  font-size: 2.5rem;
+  color: #2c3e50;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+.headline-container p {
+  font-size: 1.2rem;
+  color: #555;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+}
